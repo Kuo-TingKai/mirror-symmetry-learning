@@ -1,4 +1,4 @@
-
+# My unfamiliar concepts about A-model mentioned in nlab
 * **quantum mechanics|Quantum Mechanics**
   
   * **quantum mechanics in terms of dagger-compact categories|in terms of ∞-compact categories**
